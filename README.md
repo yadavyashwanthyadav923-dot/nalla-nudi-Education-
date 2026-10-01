@@ -19,6 +19,6 @@ The project aims to improve digital education accessibility and make learning ea
 
 Developed By
 
-Yshwanth Yadav
+Yashwanth 
 Computer Science  Department
 Cambridge Institute of Technology North Campus
